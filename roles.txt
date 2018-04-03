@@ -1,5 +1,5 @@
-ArmandK.docker
-ArmandK.docker-registry
-ArmandK.kubernetes-master
-ArmandK.kubernetes-node
-ArmandK.kubernetes-client
+armandk.docker
+armandk.docker-registry
+armandk.kubernetes-master
+armandk.kubernetes-node
+armandk.kubernetes-client
