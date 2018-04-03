@@ -14,7 +14,7 @@ $ vi hosts
 $ ansible-playbook -i hosts deploy-kubernetes.yml
 ```
 
-At the moment it is assumed there is a `centos` user available on all ndoes to
+At the moment it is assumed there is a `centos` user available on all nodes to
 perform the deployment. This user has to be able to `sudo` without a password.
 For CentOS Atomic hosts this is already the case.
 
