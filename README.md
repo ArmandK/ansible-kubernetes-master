@@ -23,13 +23,13 @@ For CentOS Atomic hosts this is already the case.
 Used roles
 ----------
 
-  * ArmandK.docker  
+  * armandk.docker  
    
-  * ArmandK.kubernetes-master  
+  * armandk.kubernetes-master  
    
-  * ArmandK.kubernetes-node  
+  * armandk.kubernetes-node  
     
-  * ArmandK.kubernetes-client  
+  * armandk.kubernetes-client  
     
 
 Contributors
