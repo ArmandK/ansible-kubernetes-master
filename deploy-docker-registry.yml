@@ -4,5 +4,5 @@
   remote_user: centos
   become: true
   roles:
-    - ArmandK.docker
-    - ArmandK.docker-registry
+    - armandk.docker
+    - armandk.docker-registry
