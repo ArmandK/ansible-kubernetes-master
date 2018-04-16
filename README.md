@@ -31,7 +31,7 @@ Used roles
   * armandk.kubernetes-client  
     
 
-Contributors
+Contributor
 ------------
 
   * Armand J. Komenan (Kassidy)
