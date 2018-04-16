@@ -1,7 +1,7 @@
-Deploy kubernetes on CentOS and Atomic hosts using Ansible
+Deploy kubernetes on CentOS using Ansible
 ==========================================================
 
-A collection of Ansible roles to deploy a k8s cluster on CentOS and CentOS Atomic hosts.
+A collection of Ansible roles to deploy a k8s cluster on CentOS.
 
 
 Usage
@@ -16,7 +16,6 @@ $ ansible-playbook -i hosts deploy-kubernetes.yml
 
 At the moment it is assumed there is a `centos` user available on all nodes to
 perform the deployment. This user has to be able to `sudo` without a password.
-For CentOS Atomic hosts this is already the case.
 
 
 
