@@ -2,6 +2,8 @@ Deploy kubernetes on CentOS using Ansible
 ==========================================================
 
 A collection of Ansible roles to deploy a k8s cluster on CentOS.
+Make sure you have the roles added in Ansible Galaxy
+The host IPs have to match your environments
 
 
 Usage
